@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+Hello! My name is Pop Paul. I am from Babeș-Bolyai Cluj University, studying mathematics and computer science. 🏫🏫🎓🎓
+I have a huge interest in 
 **paulpop30/paulpop30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
