@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! My name is Pop Paul. I am from Babeș-Bolyai Cluj University, studying mathematics and computer science in english. 🏫🏫🎓🎓
+Hello! My name is Pop Paul. I am from Babeș-Bolyai Cluj University, studying mathematics and computer science in english🎓
 I have a huge interest in the vast amount of information about programming and computer science😄 Currently studying python and trying to find a job in "IT-world"💻💻😊!!
 Skills: studying and being involved in c++, python, data bases and some java contents.
 I like the idea of team working and i am fitting so good on working in a team...
