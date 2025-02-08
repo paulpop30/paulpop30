@@ -23,8 +23,4 @@
 ### 🚀 Career Goals
 I’m passionate about starting my career in the IT industry, where I can use my skills to solve real-world problems and make a meaningful impact. My goal is to join dynamic, innovative teams that challenge me to grow and push boundaries while contributing to exciting projects.💡💼
 
-### 📫 Connect with Me
-- 🌐 GitHub: [https://github.com/paulpop30]
-- 💼 LinkedIn: [https://www.linkedin.com/in/paul-pop30/]
-- ✉️ Email: [paulpop629@gmail.com]
 
