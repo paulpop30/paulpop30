@@ -24,13 +24,7 @@ As a natural leader, I excel at organizing tasks, taking responsibility, and ens
 I’m passionate about starting my career in the IT industry, where I can use my skills to solve real-world problems and make a meaningful impact. My goal is to join dynamic, innovative teams that challenge me to grow and push boundaries while contributing to exciting projects. 💡💼
 
 📫 Connect with Me
-🌐 GitHub: [Your GitHub Profile Link]
-💼 LinkedIn: [https://www.linkedin.com/in/paul-pop30/]
-✉️ Email: [paulpop629@gmail.com]
+-🌐 GitHub: [https://github.com/paulpop30]
+-💼 LinkedIn: [https://www.linkedin.com/in/paul-pop30/]
+-✉️ Email: [paulpop629@gmail.com]
 
-- 🔭 I’m currently working on developing my knowledges in the programming part
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with courses about diffrent programming languages and finding a good job on programming part!!!
-- 📫 How to reach me:@poppaul30 on instagram; paulpop629@gmail.com...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:I am serious person but i love joking sometimes😆😆
