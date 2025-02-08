@@ -21,6 +21,6 @@
    - Continuous Learning: Always curious and eager to learn new technologies, tools, and methodologies to stay ahead in the IT world.🔍
 
 ### 🚀 Career Goals
-I’m passionate about starting my career in the IT industry, where I can use my skills to solve real-world problems and make a meaningful impact. My goal is to join dynamic, innovative teams that challenge me to grow and push boundaries while contributing to exciting projects.💡💼
+- I’m passionate about starting my career in the IT industry, where I can use my skills to solve real-world problems and make a meaningful impact. My goal is to join dynamic, innovative teams that challenge me to grow and push boundaries while contributing to exciting projects.💡💼
 
 
